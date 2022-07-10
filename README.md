@@ -1,8 +1,8 @@
-# db_migration_v1_v2
+# panel-db-migration
 
 Node.js script for migrating between different MongoDB hosts
 
-- Start the script:
+Start the script:
 
 ```
 node index.js
