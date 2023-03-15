@@ -19,7 +19,7 @@
   "homepage": "https://github.com/sc2pte/db_migration_tool#readme",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "mongoose": "^6.4.4",
+    "mongoose": "^6.4.6",
     "starcraft2-api": "^2.4.0"
   }
 }
